@@ -1,3 +1,5 @@
+#Anthony Laymond
+#1636486
 listofwords= list(input().split(" "))
 consisword = []
 
