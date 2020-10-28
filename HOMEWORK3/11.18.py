@@ -1,11 +1,13 @@
-number = input().split()
+#Anthony Laymond
+#1636486
+vary = input().split()
 result = []
 
-for num in number:
-    num = int(num)
-    if num >= 0:
-        result.append(num)
+for var in vary:
+    var = int(var)
+    if var >= 0:
+        result.append(var)
 
 result.sort()
-for num in result:
-    print(num, end=' ')
+for var in result:
+    print(var, end=' ')
