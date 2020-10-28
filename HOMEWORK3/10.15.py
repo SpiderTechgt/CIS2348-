@@ -1,3 +1,5 @@
+#Anthony Laymond
+#1636486
 class Team:
     def __init__(self):
         self.team_name = 'none'
