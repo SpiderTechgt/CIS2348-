@@ -1,3 +1,5 @@
+#Anthony Laymond
+#1636486
 class ItemToPurchase:
     def __init__(self):
         self.item_name = "none"
